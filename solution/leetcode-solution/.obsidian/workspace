@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "排序算法/排序算法总览.md",
+            "file": "472.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "排序算法/排序算法总览.md",
+                "file": "472.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,8 +90,9 @@
   },
   "active": "3c3a4e3f127dd57d",
   "lastOpenFiles": [
-    "排序算法/排序算法总览.md",
+    "472.md",
     "825.md",
+    "排序算法/排序算法总览.md",
     "排序算法/快速排序.md",
     "排序算法/冒泡排序.md"
   ]
